@@ -288,11 +288,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Todo.csproj",
+      "projectUniqueName": "/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Todo.csproj",
       "projectName": "Todo",
-      "projectPath": "/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Todo.csproj",
+      "projectPath": "/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Todo.csproj",
       "packagesPath": "/Users/vansnepsoncody/.nuget/packages/",
-      "outputPath": "/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/obj/",
+      "outputPath": "/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vansnepsoncody/.nuget/NuGet/NuGet.Config"

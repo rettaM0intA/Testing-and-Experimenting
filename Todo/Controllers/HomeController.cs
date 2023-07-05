@@ -102,7 +102,7 @@ public class HomeController : Controller
             new SqliteConnection("Data Source=db.sqlite")){
             using(var tableCmd = connection.CreateCommand()){
                 connection.Open();
-                tableCmd.CommandText = $"SELECT * FROM todo WHERE Id = '{id}'";
+                tableCmd.CommandText = $"SELECT * FROM todo WHERE Id = {id}";
 
                 using (var reader = tableCmd.ExecuteReader()){
                     if(reader.HasRows){
@@ -117,16 +117,19 @@ public class HomeController : Controller
     }
 
     public RedirectResult Update(TodoItem todo){
+        System.IO.File.WriteAllText("./errors.txt", "Started");
         using (SqliteConnection con =
             new SqliteConnection("Data Source=db.sqlite")){
             using (var tableCmd = con.CreateCommand()){
                 con.Open();
-                tableCmd.CommandText = $"UPDATE todo SET name = '{todo.Name}' WHERE Id = '{todo.Id}'";
+                tableCmd.CommandText = $"UPDATE todo SET Name = '{todo.Name}' WHERE Id = '{todo.Id}'";
                 try{
+                    System.IO.File.WriteAllText("./errors.txt", tableCmd.CommandText.ToString());
                     tableCmd.ExecuteNonQuery();
                 }
                 catch (Exception ex){
                     Console.WriteLine(ex.Message);
+                    System.IO.File.WriteAllText("./errors.txt", ex.Message);
                 }
             }
         }

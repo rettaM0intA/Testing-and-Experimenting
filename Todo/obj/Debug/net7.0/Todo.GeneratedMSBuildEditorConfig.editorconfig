@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Todo
 build_property.RootNamespace = Todo
-build_property.ProjectDir = /Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/
+build_property.ProjectDir = /Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo
+build_property.MSBuildProjectDirectory = /Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Views/Home/Index.cshtml]
+[/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Views/_ViewImports.cshtml]
+[/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Views/_ViewStart.cshtml]
+[/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Views/Shared/_Form.cshtml]
+[/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Views/Shared/_Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-r69s50qji8
 
-[/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Views/Shared/_Layout.cshtml]
+[/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-13ynighe86

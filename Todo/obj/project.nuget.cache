@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5A/kMITbWkhQx159BiB9RDKSJnYIhUt48ZRhhldwSDwdrO2Tyj5iovOsUuxyVawgWUatG7NfP5jXxIUwB2WKeQ==",
+  "dgSpecHash": "uiuPduFlZ/H8q0rVQgaI31t50O0/mKIKlYn5NH94wZemzvrYOcZg5jeKLk3OBqQO8oIwO8u+6UwM6js8BRpFmw==",
   "success": true,
-  "projectFilePath": "/Users/vansnepsoncody/Documents/Github/ThisIsPain/Todo/Todo.csproj",
+  "projectFilePath": "/Users/vansnepsoncody/Documents/Github/Testing-and-Experimenting/Todo/Todo.csproj",
   "expectedPackageFiles": [
     "/Users/vansnepsoncody/.nuget/packages/microsoft.data.sqlite/6.0.0/microsoft.data.sqlite.6.0.0.nupkg.sha512",
     "/Users/vansnepsoncody/.nuget/packages/microsoft.data.sqlite.core/6.0.0/microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
